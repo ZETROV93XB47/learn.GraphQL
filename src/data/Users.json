@@ -1,0 +1,112 @@
+[
+  {
+    "_id": 1,
+    "email": "galerosa@gadtron.com",
+    "age": 34,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Riddle",
+    "lastName": "Charles",
+    "gender": "male",
+    "phone": "+33 (813) 554-2722",
+    "address": "480 Kenmore Court, Tyro, Rhode Island, 171"
+  },
+  {
+    "_id": 2,
+    "email": "riddlecharles@gadtron.com",
+    "age": 30,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Landry",
+    "lastName": "Wood",
+    "gender": "male",
+    "phone": "+33 (991) 485-2081",
+    "address": "580 Flatbush Avenue, Blende, California, 4688"
+  },
+  {
+    "_id": 3,
+    "email": "landrywood@gadtron.com",
+    "age": 32,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Esther",
+    "lastName": "Houston",
+    "gender": "female",
+    "phone": "+33 (875) 487-3743",
+    "address": "788 Poly Place, Kraemer, Federated States Of Micronesia, 2897"
+  },
+  {
+    "_id": 4,
+    "email": "estherhouston@gadtron.com",
+    "age": 39,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Amber",
+    "lastName": "Morris",
+    "gender": "female",
+    "phone": "+33 (819) 561-3133",
+    "address": "668 Louisiana Avenue, Dola, Guam, 8668"
+  },
+  {
+    "_id": 5,
+    "email": "ambermorris@gadtron.com",
+    "age": 20,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Horne",
+    "lastName": "Guerrero",
+    "gender": "male",
+    "phone": "+33 (816) 484-2781",
+    "address": "836 Will Place, Edmund, South Carolina, 7306"
+  },
+  {
+    "_id": 6,
+    "email": "horneguerrero@gadtron.com",
+    "age": 22,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Lena",
+    "lastName": "Snider",
+    "gender": "female",
+    "phone": "+33 (835) 415-3859",
+    "address": "284 Rogers Avenue, Allentown, New Hampshire, 3716"
+  },
+  {
+    "_id": 7,
+    "email": "lenasnider@gadtron.com",
+    "age": 20,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Crosby",
+    "lastName": "Richmond",
+    "gender": "male",
+    "phone": "+33 (804) 466-2189",
+    "address": "387 Woodruff Avenue, Cornfields, Montana, 8645"
+  },
+  {
+    "_id": 8,
+    "email": "crosbyrichmond@gadtron.com",
+    "age": 21,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Mcbride",
+    "lastName": "Conner",
+    "gender": "male",
+    "phone": "+33 (824) 575-2723",
+    "address": "265 Langham Street, Sunnyside, Arizona, 1049"
+  },
+  {
+    "_id": 9,
+    "email": "mcbrideconner@gadtron.com",
+    "age": 36,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Hilda",
+    "lastName": "Delaney",
+    "gender": "female",
+    "phone": "+33 (975) 482-2671",
+    "address": "190 Oak Street, Kansas, New Jersey, 2952"
+  },
+  {
+    "_id": 10,
+    "email": "hildadelaney@gadtron.com",
+    "age": 33,
+    "password": "#NG3@5Yt=?*p@VDUr8kS%",
+    "firstName": "Beasley",
+    "lastName": "Ramsey",
+    "gender": "male",
+    "phone": "+33 (832) 438-2951",
+    "address": "225 Metropolitan Avenue, Soudan, Alabama, 3739"
+  }
+]
